@@ -22,7 +22,7 @@ I'm diving into the world of web development, focusing on front-end and back-end
 - Continuously learn and improve my coding skills.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/afshan-ahamed-m-4b68a325a]
 - Email: [ahamedafshan801@gmail.com]
 
 ---
