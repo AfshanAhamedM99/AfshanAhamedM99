@@ -6,7 +6,7 @@ I'm diving into the world of web development, focusing on front-end and back-end
 
 ## Skills
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Bootstrap, jQuery
+- **Frameworks & Libraries**: Bootstrap, jQuery, React JS, Tailwind CSS
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, VS Code
 
